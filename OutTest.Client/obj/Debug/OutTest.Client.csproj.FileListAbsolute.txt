@@ -1,0 +1,6 @@
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.Client\bin\Debug\OutTest.Client.exe.config
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.Client\bin\Debug\OutTest.Client.exe
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.Client\bin\Debug\OutTest.Client.pdb
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.Client\obj\Debug\OutTest.Client.csprojResolveAssemblyReference.cache
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.Client\obj\Debug\OutTest.Client.exe
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.Client\obj\Debug\OutTest.Client.pdb

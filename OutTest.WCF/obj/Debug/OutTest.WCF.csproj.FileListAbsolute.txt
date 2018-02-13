@@ -1,0 +1,6 @@
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.WCF\bin\OutTest.WCF.dll.config
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.WCF\bin\OutTest.WCF.dll
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.WCF\bin\OutTest.WCF.pdb
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.WCF\obj\Debug\OutTest.WCF.csprojResolveAssemblyReference.cache
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.WCF\obj\Debug\OutTest.WCF.dll
+C:\Users\suneel.podapati\Documents\Visual Studio 2015\Projects\OutTest\OutTest.WCF\obj\Debug\OutTest.WCF.pdb
